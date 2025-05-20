@@ -1,5 +1,3 @@
 # Cyber-Security-Full-tutorial
 Cyber Security Full tutorial
-in pakistan 
-<br>
-how are you all friend
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
