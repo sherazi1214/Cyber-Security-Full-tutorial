@@ -13,7 +13,7 @@ Welome to the **Cyber Security Full Course 2025**! <br> This course is a compreh
 ## Now lats starte
 
 
-- **[Introduction to Cyber Security](https://tryhackme.com/):** First we learn to introduction of cyber security .
-- **[Networking Fundamentals](https://www.hackthebox.eu/):** 2nd we learn to fundamentals of networking .
-- **[Linux fundamentals](https://tryhackme.com/):** 3rd we learn to Linux fundamentals 
-- **[Tools in cyber ](https://tryhackme.com/):**
+- **[Introduction to Cyber Security](https://github.com/sherazi1214/Introduction-to-Cyber-Security/blob/main/README.md):** First we learn to introduction of cyber security .
+- **[Networking Fundamentals]():** 2nd we learn to fundamentals of networking .
+- **[Linux fundamentals]():** 3rd we learn to Linux fundamentals 
+- **[Tools in cyber ]():**
