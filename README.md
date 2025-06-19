@@ -15,5 +15,5 @@ Welome to the **Cyber Security Full Course 2025**! <br> This course is a compreh
 
 - **[Introduction to Cyber Security](https://github.com/sherazi1214/Introduction-to-Cyber-Security/blob/main/README.md):** 1st we learn to introduction of cyber security .
 - **[Networking Fundamentals](https://github.com/sherazi1214/fundamentals-of-networking):** 2nd we learn to fundamentals of networking .
-- **[Linux fundamentals]():** 3rd we learn to Linux fundamentals 
+- **[Linux fundamentals](https://github.com/sherazi1214/Linux-fundamentals):** 3rd we learn to Linux fundamentals 
 - **[Tools in cyber ]():**
