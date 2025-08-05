@@ -16,6 +16,6 @@ Welome to the **Cyber Security Full Course 2025**! <br> This course is a compreh
 - **[Introduction to Cyber Security](https://github.com/sherazi1214/Introduction-to-Cyber-Security/blob/main/README.md):** 1st we learn to introduction of cyber security .
 - **[Networking Fundamentals](https://github.com/sherazi1214/fundamentals-of-networking):** 2nd we learn to fundamentals of networking .
 - **[Linux fundamentals](https://github.com/sherazi1214/Linux-fundamentals):** 3rd we learn to Linux fundamentals
--  **[CompTia security+ coures]([https://github.com/sherazi1214/comptia-security-/blob/main/README.md]):** learn about comptai security course
+- **[CompTia security+ coures]([https://github.com/sherazi1214/comptia-security-/blob/main/README.md):** learn about comptai security course
 -  **[Ethical Hacking Basic to advince ](https://github.com/sherazi1214/Ethical-Hacking-Basic-to-advance):** Learn Full Ethical Hacking basic to advance
 - **[CYBERSECURITY DOMAINS ROADMAP (2025 Career Guide) ](https://github.com/sherazi1214/CYBERSECURITY-DOMAINS-ROADMAP):** Understand the 10 domains and what skills, tools, certifications, and roles are connected to each.
