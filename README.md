@@ -19,3 +19,4 @@ Welome to the **Cyber Security Full Course 2025**! <br> This course is a compreh
 - **[CompTia security+ coures](https://github.com/sherazi1214/comptia-security-/blob/main/README.md):** learn about comptai security course
 -  **[Ethical Hacking Basic to advince ](https://github.com/sherazi1214/Ethical-Hacking-Basic-to-advance):** Learn Full Ethical Hacking basic to advance
 - **[CYBERSECURITY DOMAINS ROADMAP (2025 Career Guide) ](https://github.com/sherazi1214/CYBERSECURITY-DOMAINS-ROADMAP):** Understand the 10 domains and what skills, tools, certifications, and roles are connected to each.
+-  **[CompTia Pentest coures](https://github.com/sherazi1214/CompTia-pentest):** learn about comptai pentest course
